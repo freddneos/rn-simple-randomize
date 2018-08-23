@@ -1,0 +1,3 @@
+rootProject.name = 'randomize'
+
+include ':app'
